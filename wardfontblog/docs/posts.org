@@ -1,0 +1,13 @@
+#+hugo_base_dir: ~/projects/blog/wardfontblog/
+
+* blog
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: blog
+:END:
+
+** First Post
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2022-12-15-first-post
+:END:
+
+Hello!

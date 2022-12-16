@@ -1,0 +1,4 @@
+[submodule "wardfontblog/public"]
+	path = wardfontblog/public
+	url = https://github.com/wardfont/wardfont.github.io.git
+	branch = main

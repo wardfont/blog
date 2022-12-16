@@ -1,0 +1,4 @@
+baseURL = "http://wardfont.github.io/"
+languageCode = "en-gb"
+title = "Ward Fonteyn"
+theme="hyde"
